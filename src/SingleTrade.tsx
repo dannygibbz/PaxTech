@@ -22,6 +22,7 @@ function SingleTrade({
   tradeStatusPaid,
   hasUnreadMessage,
 }: Trade) {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [usdRate, setUsdRate] = useState(0)
   const [readStatus, setReadStatus] = useState("#73f866")
   const history = useHistory()
