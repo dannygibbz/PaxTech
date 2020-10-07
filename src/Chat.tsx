@@ -30,6 +30,8 @@ function Chat({
   storeMessages,
   dispatch,
 }: Props) {
+  // Didn't finish the user switching functionality
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [value, setValue] = useState("")
 
   const [currentUsername, setCurrentUsername] = useState("Dan")
