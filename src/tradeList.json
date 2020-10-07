@@ -1,0 +1,38 @@
+[
+  {
+    "tradeId": 1,
+    "buyerUsername": "Dan",
+    "paymentMethod": "Amazon Gift Card",
+    "amount": 77,
+    "amountUnit": "USD",
+    "tradeStatusPaid": true,
+    "hasUnreadMessage": false
+  },
+  {
+    "tradeId": 2,
+    "buyerUsername": "Dan",
+    "paymentMethod": "Red Lobster Gift Card",
+    "amount": 25,
+    "amountUnit": "USD",
+    "tradeStatusPaid": false,
+    "hasUnreadMessage": false
+  },
+  {
+    "tradeId": 3,
+    "buyerUsername": "Dan",
+    "paymentMethod": "Best Buy Gift Card",
+    "amount": 25,
+    "amountUnit": "USD",
+    "tradeStatusPaid": true,
+    "hasUnreadMessage": true
+  },
+  {
+    "tradeId": 4,
+    "buyerUsername": "Dan",
+    "paymentMethod": "iTunes Gift Card",
+    "amount": 69,
+    "amountUnit": "USD",
+    "tradeStatusPaid": false,
+    "hasUnreadMessage": true
+  }
+]
